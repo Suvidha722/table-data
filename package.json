@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "name": "table-data",
+  "description": "deploy express app to vercel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "engines": {
+    "node" : "14.x"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Suvidha722/table-data.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Suvidha722/table-data/issues"
+  },
+  "homepage": "https://github.com/Suvidha722/table-data#readme"
+}
